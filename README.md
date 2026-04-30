@@ -2,3 +2,4 @@
 Exam Portal is a full stack project developed using angular and java spring boot.
 
 Exam_portal - exam portal is a webApp in which users can attempt quizzes of different categories and can improve their skills.
+Author - Deep Tirole.
